@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "The CoStudy website backend is a robust system built using Node.js, Express.js, MongoDB, and WebRTC technologies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "K Vishnu Teja and Chetan",
+  "license": "ISC"
+}
